@@ -1,0 +1,15 @@
+.env
+.env.*
+tmp/
+/tmp
+frontend/node_modules
+*.tsbuildinfo
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+*.test.exe
+__debug_bin
