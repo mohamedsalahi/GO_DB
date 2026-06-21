@@ -3,6 +3,7 @@
 tmp/
 /tmp
 frontend/node_modules
+frontend/dist
 *.tsbuildinfo
 *.exe
 *.exe~

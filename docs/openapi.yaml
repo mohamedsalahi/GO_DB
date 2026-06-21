@@ -6,7 +6,7 @@ info:
     Features JWT authentication, PostgreSQL with sqlc, Redis rate limiting, and more.
   version: "1.0.0"
   contact:
-    name: Mohamed
+    name: Developer
 servers:
   - url: http://localhost:8080
     description: Local development
