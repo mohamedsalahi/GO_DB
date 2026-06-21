@@ -214,7 +214,7 @@ curl -X DELETE http://localhost:8080/api/v1/tasks/{taskID} \
 | `make docker-down` | Stop Docker services |
 | `make lint` | Run golangci-lint |
 
-## Why This Stands Out
+## So this basically more of a portfolio type of project for the following reasons :
 
 1. **sqlc over ORMs** — raw SQL with automatic type-safe Go generation. Shows deep database knowledge.
 2. **True Clean Architecture** — domain layer has zero imports. The repository pattern is fully interface-driven.
