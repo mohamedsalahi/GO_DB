@@ -169,7 +169,7 @@ curl -X POST http://localhost:8080/api/v1/auth/login \
   -d '{"email":"john@example.com","password":"secret123"}'
 ```
 
-### Tasks (Protected)
+### Tasks with placeholders so u may edit however u want
 
 ```bash
 # Set token
